@@ -154,9 +154,7 @@ const Login = () => {
               </Link>
             </p>
             <p>Or</p>
-            <Logout></Logout>
             <Login_with_google></Login_with_google>
-           
           </div>
         </div>
       </form>
